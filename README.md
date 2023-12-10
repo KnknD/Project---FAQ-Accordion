@@ -23,9 +23,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshots
--Desktop resolution ![](https://drive.google.com/file/d/11XnJOpYPs_VGYN6vQiKHLAmH4ZHFqV9W/view?usp=sharing);
--Tablet resolution ![](https://drive.google.com/file/d/1cj3v_4nXejvEC5fdHPcEVP0AukPapMLI/view?usp=sharing);
--Mobile resolution ![](https://drive.google.com/file/d/1jZrvMhVIBUTJzxBmIEMoCfQDaj6DlQGU/view?usp=sharing);
+[Desktop resolution](https://drive.google.com/file/d/11XnJOpYPs_VGYN6vQiKHLAmH4ZHFqV9W/view?usp=sharing);
+[Tablet resolution](https://drive.google.com/file/d/1cj3v_4nXejvEC5fdHPcEVP0AukPapMLI/view?usp=sharing);
+[Mobile resolution](https://drive.google.com/file/d/1jZrvMhVIBUTJzxBmIEMoCfQDaj6DlQGU/view?usp=sharing);
 
 ### My process
 Having downloaded all the assets and Figma design, I meticulously analyzed the designs to identify differences and similarities. I aimed to organize my code more effectively, considering techniques that could enhance the overall structure. Following this, I began writing HTML, CSS, and JavaScript codes, adopting a desktop-first approach. I incorporated a recap of DOM JS into this project to ensure a comprehensive implementation.
