@@ -1,4 +1,4 @@
-# Hello there! 
+# Hello there! :sparkling_heart:
 ##### I am happy to see you are interested in my first ever project! I did my best in order to implement my knowledge in this FAQ Accordion project. Thanks for checking this out!
 
 ## Table of contents
@@ -12,7 +12,7 @@
 
 
 
-## Overview
+## Overview :shipit:
 I created a FAQ accordion, it is a common front-end user interface pattern that organizes Frequently Asked Questions in a collapsible format. Typically implemented as a list of questions where clicking on an item reveals or hides its corresponding answer, it offers a space-efficient and user-friendly way to present information on a website. This interactive design allows users to easily navigate through a set of questions and quickly access the relevant answers without overwhelming the interface.
 
 ### The challenge
